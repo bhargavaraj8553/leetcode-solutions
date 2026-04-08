@@ -34,3 +34,31 @@ Strengthen problem-solving skills and build strong foundations in Data Structure
 ---
 
 Consistent learning and improvement through problem solving 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+<!---LeetCode Topics End-->
