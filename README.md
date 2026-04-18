@@ -41,6 +41,7 @@ Consistent learning and improvement through problem solving 🚀
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Consistent learning and improvement through problem solving 🚀
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Consistent learning and improvement through problem solving 🚀
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Counting
 |  |
 | ------- |
