@@ -1,13 +1,23 @@
+
 class Solution {
+
+    // 🔹 Space Optimized DP (Climbing Stairs)
+    // Same as Fibonacci: f(n) = f(n-1) + f(n-2)
+
+    // TC: O(n)
+    // SC: O(1)
+
     public int climbStairs(int n) {
-        int[] dp = new int[n+1];
-        if(n<=2) return n;
-        Arrays.fill(dp,-1);
-        dp[1]= 1;
-        dp[2] = 2;
-        for (int i = 3 ; i <= n; i++) {
-            dp[i] = dp[i-2]+ dp[i-1];
+        if (n <= 2) return n; // base case (common mistake: I sometimes use < instead of <=)
+
+        int prev2 = 1; // ways to reach step 1
+        int prev = 2;  // ways to reach step 2
+
+        for (int i = 3; i <= n; i++) { // important: <= n, not < n
+            int current = prev2 + prev; // compute current step
+            prev2 = prev;               // shift window
+            prev = current;
         }
-        return dp[n];
+        return prev;
     }
 }
