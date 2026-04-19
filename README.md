@@ -67,10 +67,12 @@ Consistent learning and improvement through problem solving 🚀
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -79,5 +81,6 @@ Consistent learning and improvement through problem solving 🚀
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
