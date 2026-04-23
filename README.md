@@ -40,6 +40,7 @@ Consistent learning and improvement through problem solving 🚀
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Hash Table
@@ -73,6 +74,7 @@ Consistent learning and improvement through problem solving 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
