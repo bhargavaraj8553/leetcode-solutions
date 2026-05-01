@@ -40,6 +40,7 @@ Consistent learning and improvement through problem solving 🚀
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -76,6 +77,7 @@ Consistent learning and improvement through problem solving 🚀
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -93,4 +95,8 @@ Consistent learning and improvement through problem solving 🚀
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
