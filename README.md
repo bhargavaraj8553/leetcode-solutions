@@ -42,6 +42,7 @@ Consistent learning and improvement through problem solving 🚀
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -81,6 +82,7 @@ Consistent learning and improvement through problem solving 🚀
 | [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0509-fibonacci-number) |
