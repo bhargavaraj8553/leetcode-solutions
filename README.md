@@ -45,6 +45,7 @@ Consistent learning and improvement through problem solving 🚀
 | [0120-triangle](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1463-cherry-pickup-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
@@ -86,6 +87,7 @@ Consistent learning and improvement through problem solving 🚀
 | [0120-triangle](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
