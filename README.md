@@ -46,6 +46,7 @@ Consistent learning and improvement through problem solving 🚀
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1463-cherry-pickup-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
@@ -56,11 +57,13 @@ Consistent learning and improvement through problem solving 🚀
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
@@ -109,4 +112,8 @@ Consistent learning and improvement through problem solving 🚀
 | [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
