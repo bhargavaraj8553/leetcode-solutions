@@ -48,6 +48,7 @@ Consistent learning and improvement through problem solving 🚀
 | [0416-partition-equal-subset-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1463-cherry-pickup-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Hash Table
@@ -59,6 +60,7 @@ Consistent learning and improvement through problem solving 🚀
 | ------- |
 | [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1642-furthest-building-you-can-reach](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Sorting
 |  |
