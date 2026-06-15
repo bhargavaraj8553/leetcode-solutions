@@ -40,6 +40,7 @@ Consistent learning and improvement through problem solving 🚀
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0120-triangle) |
@@ -58,6 +59,7 @@ Consistent learning and improvement through problem solving 🚀
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -86,6 +88,7 @@ Consistent learning and improvement through problem solving 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0064-minimum-path-sum) |
