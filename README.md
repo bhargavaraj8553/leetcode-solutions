@@ -45,6 +45,7 @@ Consistent learning and improvement through problem solving 🚀
 | [0063-unique-paths-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -62,6 +63,7 @@ Consistent learning and improvement through problem solving 🚀
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavaraj8553/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
